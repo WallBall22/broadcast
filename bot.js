@@ -6,12 +6,12 @@ const prefix = "$";
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Desert Bot- Script By : EX Clan`);
+      console.log(`Rblx Broadcast Bot- Script By : Mero`);
         console.log(`----------------`);
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`=bc |3bker Broadcast`,"http://twitch.tv/Death Shop")
+client.user.setGame(`$bc | Have a good time ❤️`,"http://twitch.tv/Rblx Community")
 client.user.setStatus("dnd")
 });
 
